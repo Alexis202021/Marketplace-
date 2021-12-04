@@ -1,0 +1,18 @@
+body{
+    background: url(../img/alien\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
